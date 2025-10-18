@@ -8,7 +8,7 @@ This project implements Gilbert’s correlation and related empirical methods to
 
 It provides a foundational framework for production performance analysis, choke optimization, and data-driven decision-making in petroleum engineering operations.
 
-⚙️ Key Features
+ Key Features
 
 Oil Rate Estimation – Uses Gilbert’s empirical correlation to calculate liquid production based on pressure and choke size.
 
